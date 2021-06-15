@@ -8,7 +8,7 @@ Supports Mega Radio Fm Streamings
 Please fork this repository don't import code
 Made with Python3
 (C) @shamilhabeebnelli
-License -> https://github.com/shamilhabeebnelli/MwK-Musics/blob/master/LICENSE
+License -> https://github.com/vishnun007/MwK-Musics/blob/master/LICENSE
 ```
 
 ## Deploy to Heroku
@@ -19,7 +19,7 @@ License -> https://github.com/shamilhabeebnelli/MwK-Musics/blob/master/LICENSE
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/shamilhabeebnelli/MwK-Musics
+git clone https://github.com/vishnun007/MwK-Musics
 cd MwK-Musics
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -71,4 +71,4 @@ python3 main.py
 ```
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/shamilnelli)
+Connect Me On [Telegram](https://telegram.dog/vishnunechikkadan007)
